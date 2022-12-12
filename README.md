@@ -2,12 +2,11 @@
 <br>
 <ul>
 <li>A web page for adding Umrah and visitor services<li/>
-<li>Services have been added 20 km from the mosque
-<li/>
-<liIncluding restaurants, hotels and barbershops<li/>
+<li>Services have been added 20 km from the mosque<li/>
+<li>Including restaurants, hotels and barbershops<li/>
 <ul/>
 
-<img width="1440" alt="99" src="https://user-images.githubusercontent.com/112709908/207053053-46f1b27c-69b3-449b-8769-a54955c4fa2c.png">
+<img width="1000" alt="99" src="https://user-images.githubusercontent.com/112709908/207053053-46f1b27c-69b3-449b-8769-a54955c4fa2c.png">
 <img width="1440" alt="2" src="https://user-images.githubusercontent.com/112709908/207053062-fa53eebb-4781-4dec-8104-0e083f6746d8.png">
 <img width="1440" alt="3" src="https://user-images.githubusercontent.com/112709908/207053072-36783e06-e4b7-48f2-86a1-46c4c9ed98a4.png">
 <img width="1440" alt="4" src="https://user-images.githubusercontent.com/112709908/207053078-048d3709-5202-4938-b993-d5110a1bd14f.png">
